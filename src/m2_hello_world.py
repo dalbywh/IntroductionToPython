@@ -13,7 +13,7 @@ print('Hello, World')
 
 ########################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #   (Yes, that means for YOU to DO things per these instructions:)
 #
 #   Run this module by right clicking anywhere in this window and select
@@ -26,7 +26,7 @@ print('Hello, World')
 
 ########################################################################
 #
-# TODO: 2.
+# DONE: 2.
 #   Notice the small horizontal BLUE bars on the scrollbar-like thing
 #   on the right.  Each blue bar indicates a TO DO in this module.
 #
@@ -34,7 +34,7 @@ print('Hello, World')
 #        by clicking on the blue bars.  ** Try that now. **
 #
 #     b. When you have completed a TO DO, you should change the word
-#          TODO
+#          TO DO
 #        to
 #          DONE.
 #        Try it now on line 16 above, and note that its blue bar on
@@ -51,7 +51,7 @@ print('Hello, World')
 
 ########################################################################
 #
-# TODO: 3.
+# DONE: 3.
 #   Add another   print   statement below.
 #   It should print any string that you want (but keep it G-rated!)
 #   Test your code by re-running this module using either the right click
@@ -59,10 +59,10 @@ print('Hello, World')
 #   Look at the Console to be sure that your string printed as expected.
 #
 ########################################################################
-
+print("Hi, Coco! How's Life?")
 ########################################################################
 #
-# TODO: 4.
+# DONE: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
@@ -73,10 +73,10 @@ print('Hello, World')
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ########################################################################
-
+print(3607 * 34227)
 ########################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   Look at the list of files in this project to the left.
 #   Note that this file (m2_hello_world.py) is now displayed in a blue
 #   font color (if the file is highlighted select a different file so yu can
